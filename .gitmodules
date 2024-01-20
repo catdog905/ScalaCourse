@@ -1,0 +1,27 @@
+[submodule "HW1"]
+	path = HW1
+	url = git@github.com:catdog905/ScalaCourseHW1.git
+[submodule "HW2"]
+	path = HW2
+	url = git@github.com:catdog905/ScalaCourseHW2.git
+[submodule "HW3"]
+	path = HW3
+	url = git@github.com:catdog905/ScalaCourseHW3.git
+[submodule "HW4"]
+	path = HW4
+	url = git@github.com:catdog905/ScalaCourseHW4.git
+[submodule "HW5"]
+	path = HW5
+	url = git@github.com:catdog905/ScalaCourseHW5.git
+[submodule "HW6"]
+	path = HW6
+	url = git@github.com:catdog905/ScalaCourseHW6.git
+[submodule "HW7"]
+	path = HW7
+	url = git@github.com:catdog905/ScalaCourseHW7.git
+[submodule "HW8"]
+	path = HW8
+	url = git@github.com:catdog905/ScalaCourseHW8.git
+[submodule "HW9"]
+	path = HW9
+	url = git@github.com:catdog905/ScalaCourseHW9.git
