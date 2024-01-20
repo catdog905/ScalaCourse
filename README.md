@@ -1,6 +1,6 @@
 # ScalaCourse
 
-This github repository contains my homeworks of Scala Course in Tinkoff Education. Each folder contains README.md with task description and project with solution of corresponding task.
+This github repository contains my homeworks of Scala Course in Tinkoff Education. Each folder contains README.md with task description and project with solution of corresponding task. Every github repository have exactly one merged pull request that contains all my changes while working with homework.
 
 For convenience, here I've enumerated list of homework topics:
 
